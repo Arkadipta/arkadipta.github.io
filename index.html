@@ -6,12 +6,12 @@
         <title>
             Arkadipta Sarkar
         </title>
-        <style type="text/css">body{margin:40px auto;max-width:1000px;line-height:1.6;font-size:18px;color:#444;padding:0 10px}h1,h2,h3{line-height:1.2}</style>
+        <link rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
         <header>
             <h1>
-                <em>Welcome.</em> I am Arkadipta Sarkar.
+                Arkadipta Sarkar.
             </h1>
             <aside>
                 PhD candidate,<br>
@@ -21,116 +21,106 @@
             </aside>
         </header>
         <hr>
-        <h2>
-            Research Interests:
-        </h2>
-        <h2>
-            Educational Qualifications:
-        </h2>
-        <h2>
-            Projects Undertaken:
-        </h2>
-        <h2>
-            Publications
-        </h2>
-        <p>
-            <strong>7 fucking declarations.</strong>
-        </p>
-        <p align="justify">
-            That's how much CSS it took to turn that <a href="http://motherfuckingwebsite.com/">grotesque pile of shit</a> into this easy-to-read masterpiece. It's so fucking
-            simple and it <em>still</em> has all the glory of the original perfect-ass website:
-        </p>
-        <ul>
-            <li>
-                Shit's <em>still</em> lightweight and loads fast
-            </li>
-            <li>
-                <em>Still</em> fits on all your shitty screens
-            </li>
-            <li>
-                <em>Still</em> looks the same in all your shitty browsers
-            </li>
-            <li>
-                The motherfucker's <em>still</em> accessible to every asshole that visits your site
-            </li>
-            <li>
-                Shit's <em>still</em> legible and gets your fucking point across</li>
-        </ul>
-        <h3>
-            And guess what, motherfucker:
-        </h3>
-        <p>
-            You never knew it, but it's easy to improve readability on your site. Here's how.
-        </p>
-        <h2>
-            Let it breathe
-        </h2>
-        <p align="justify">
-            Look at lines 1 and 2 of some shitty website you're building. Assuming they're not married they probably shouldn't be humping. The defaults are trash -- pick a minimum
-            <code>line-height: 1.4</code> for body copy. Headings should be tighter. If you can't see that...piss off.
-        </p>
-        <p align="justify">If your text hits the side of the browser, fuck off forever. You ever see a book like that? Yes? What a shitty book.
-        </p>
-        <h2>
-            A little less contrast
-        </h2>
-        <p align="justify">
-            Black on white? How often do you see that kind of contrast in real life? Tone it down a bit, asshole. I would've even made this site's background a nice
-            <code>#EEEEEE</code> if I wasn't so focused on keeping declarations to a lean 7 fucking lines.
-        </p>
-        <h2>
-            Size Matters
-        </h2>
-        <p align="justify">
-            I know your partner says otherwise, but it's true. Bump that body copy to render close to 16px or more. Smaller type works well for print, not the
-            screen.
-        </p>
-        <h2>
-            Line-width, motherfucker
-        </h2>
-        <p align="justify">
-            Looking at an LCD screen is strainful enough. Don't make me read a line of text that's 200 fucking characters long. Keep it to a nice 60-80 and users might actually
-            read more than one sentence of your worthless dribble.
-        </p>
-        <h3>
-            Yes, this is <em>also</em> fucking satire, you fuck
-        </h3>
-        <p align="justify">
-            I love what the creator of <a href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'm saying is that it's so, so simple to make sites easier
-            to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out
-            there need to make them not total shit.
-        </p>
-        <blockquote>"
-            You're a fucking moron if you use default browser styles." <br> - EleanorRoosevelt
-        </blockquote>
-        <hr>
-        <h2>
-            Epilogue
-        </h2>
-        <p>
-            Inspired by the geniuses behind <a href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a> and <a href="http://txti.es">txti</a>.
-        </p>
-        <p align="justify">
-            This page&mdash;that isn't a total fucking eyesore&mdash;was created by <a href="https://twitter.com/drew_mc">me</a> with help from
-            <a href="https://twitter.com/gabehammersmith">him</a>.
+                <button class="tablink active" onclick="openPage('Research', this, '#999')">Research</button>
+                <button class="tablink" onclick="openPage('Education', this, '#999')" id="defaultOpen">Education</button>
+                <button class="tablink" onclick="openPage('Hobby', this, '#999')">Hobby</button>
+                <button class="tablink" onclick="openPage('Contact', this, '#999')">Contact</button>
+                <div id="Research" class="tabcontent" style="display:block">
+                    <h2>
+                        Overview:
+                    </h2>
+                    <p align="justify">
+                        I am a graduate student in the field of Hight Energy Astrophysics. My work mostly focus on understanding the Very High Energy (VHE) emissions from
+                        <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus">Active Galactic Nuclei</a>. My work is broadly divided into two parts. Firstly, I am
+                        involved in the study of high energy emissions from <a href="https://en.wikipedia.org/wiki/Blazar">Blazars</a>, a subclass of AGN. Secondly, I am also
+                        involved in the simulations and testing of an upcomming Gamma-ray telescope to be situated at
+                        <a href="https://geohack.toolforge.org/geohack.php?pagename=Mount_Abu&params=24.5925_N_72.7083_E_type:city(22943)_region:IN-RJ">Mt. Abu</a>.
+                    </p>
+                    <h2>
+                        Publications:
+                    </h2>
+                    <ol>
+                        <li>Chitnis V.R., Upadhaya, S.S., Goethe, K., et al. "SiPM Based Imaging Camera for 4m Class Telescope", (2021), <i>PoS</i>, ICRC2021, 719
+                            <a href="https://doi.org/10.22323/1.395.0719">[Article]</a>[ArXiv]</li>
+                        <li>Chatterjee A., Roy A., <b>Sarkar A.</b>, and Chitnis V. R., "Temporal and Spectral Study of PKS B1222+216 Flares in 2014", (2021), <i>MNRAS</i>,
+                            2, 1986 <a href="https://doi.org/10.1093/mnras/stab2747">[Article]</a> <a href="https://arxiv.org/abs/2105.10891">[ArXiv]</a></li>
+                        <li>Roy A., Patel S. R., <b>Sarkar A.</b>, et al., "Multiwavelength Study of Quiescent States of Brightest Blazars detected by <i>Fermi</i>-LAT", (2021),
+                            <i>MNRAS</i>, <b>504</b>, 1, 1103 <a href="https://doi.org/10.1093/mnras/stab975">[Article]</a> <a href="https://arxiv.org/abs/2104.08566">[ArXiv]</a></li>
+                        <li><strong>Sarkar A.</strong>, Gupta A. C., Chitnis V. R. and, Wiita P. J., "Multiwaveband quasi-periodic oscillation in the
+                            blazar 3C 454.3", (2021), <i>MNRAS</i>, <b>501</b>, 50 <a href="https://doi.org/10.1093/mnras/staa3211">[Article]</a>
+                            <a href="https://arxiv.org/abs/2003.01911">[ArXiv]</a> </li>
+                        <li>Kushwaha P., <b>Sarkar A.</b>, Gupta A. C., et al., "A possible γ-ray quasi-periodic oscillation of ∼314 days in the blazar OJ 287", (2020),
+                            <i>MNRAS</i>, <b>499</b>, 653 <a href="https://doi.org/10.1093/mnras/staa2899">[Article]</a><a href="https://arxiv.org/abs/2009.13754">[ArXiv]</a></li>
+                        <li><strong>Sarkar A.</strong>, Kushwaha P., Gupta A. C., et al., "Multi-waveband quasi-periodic oscillations in the light curves of blazar CTA 102
+                            during its 2016–2017 optical outburst", (2020), <i>A&A</i>, <b>642</b>, A129 <a href="https://doi.org/10.1051/0004-6361/202038052">[Article]</a>
+                            <a href="https://arxiv.org/abs/2010.07136">[ArXiv]</a></li>
+                        <li><strong>Sarkar A.</strong>, Chitnis V. R., Gupta A. C., et al., "Long-term Variability and Correlation Study of the Blazar 3C 454.3 in the Radio,
+                            NIR, and Optical Wavebands", (2019), <i>ApJ</i>, <b>887</b>, 185 <a href="https://doi.org/10.3847/1538-4357/ab5281">[Article]</a>
+                            <a href="https://arxiv.org/abs/1910.14329">[ArXiv]</a></li>
+                    </ol>
+                </div>
+                <div>
+                    <h2 align="center">
+                        Education
+                    </h2>
+                     <div class="timeline">
+                         <div class="container left">
+                             <div class="content">
+                                 <h2>2021</h2>
+                                 <h3>Tata Institute of Fundamental Research</h3>
+                                 <p>Finished PhD.</p>
+                             </div>
+                         </div>
+                         <div class="container right">
+                             <div class="content">
+                                 <h2>2018</h2>
+                                 <h3>Tata Institute of Fundamental Research</h3>
+                                 <p>Started PhD.</p>
+                             </div>
+                         </div>
+                         <div class="container left">
+                             <div class="content">
+                                 <h2>2014</h2>
+                                 <h3>Tata Institute of Fundamental Research</h3>
+                                 <p>Joined as a research scholar.</p>
+                             </div>
+                         </div>
+                         <div class="container right">
+                             <div class="content">
+                                 <h2>2014</h2>
+                                 <h3>Jadavpur University</h3>
+                                 <p>Finished B.Sc (Hons).</p>
+                             </div>
+                         </div>
+                         <div class="container left">
+                             <div class="content">
+                                 <h2>2011</h2>
+                                 <h3>Jadavpur University</h3>
+                                 <p>Started B.Sc.</p>
+                             </div>
+                         </div>
+
+                     </div>
+                </div>
+
             <script>
-             (
-                 function(i,s,o,g,r,a,m)
-                 {
-                     i['GoogleAnalyticsObject']=r;
-                     i[r]=i[r]||function()
-                     {
-                         (i[r].q=i[r].q||[]).push(arguments)
-                     },
-                     i[r].l=1*newDate();a=s.createElement(o),m=s.getElementsByTagName(o)[0];
-                     a.async=1;
-                     a.src=g;
-                     m.parentNode.insertBefore(a,m)
+             function openPage(pageName,elmnt,color) {
+                 var i, tabcontent, tablinks;
+                 tabcontent = document.getElementsByClassName("tabcontent");
+                 for (i = 0; i < tabcontent.length; i++) {
+                     tabcontent[i].style.display = "none";
                  }
-             )
-             (window,document,'script','//www.google-analytics.com/analytics.js','ga');
-             ga('create','UA-46163202-2','auto');
-             ga('send','pageview');
+                 tablinks = document.getElementsByClassName("tablink");
+                 for (i = 0; i < tablinks.length; i++) {
+                     tablinks[i].style.backgroundColor = "";
+                 }
+                 document.getElementById(pageName).style.display = "block";
+                 elmnt.style.backgroundColor = color;
+             }
+
+             // Get the element with id="defaultOpen" and click on it
+             document.getElementById("defaultOpen").click();
+             // document.getElementsByClassName('tablinks')[0].click()
             </script>
     </body>
 </html>
