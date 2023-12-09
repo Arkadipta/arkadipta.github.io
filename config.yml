@@ -1,3 +1,72 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Arkadipta
+theme: PaperModX
+params:
+    # TocSide: 'left'
+    # EnableInstantClick: true
+    defaultTheme: auto
+    ShowBreadCrumbs: true
+    ShowShareButtons: true
+    DateFormat: "2006"
+
+    homeInfoParams:
+        Title: 👋🏼 Hi there,
+        subtitle: "**welcome to my homepage...**"
+        Content: |
+          With over 9 years in the field, I'm an **astroparticle physicist** specializing
+          in the study of Active Galactic Nuclei (AGN) emissions. My expertise spans 
+          software development for three global telescopes, time-series analysis, machine
+          learning, and stochastic calculus. My passion lies in decoding the mysteries
+          of the cosmos through vast datasets. Join me on a thrilling cosmic journey as we
+          explore the enigmatic realms of AGNs and the universe's grand tapestry. Together,
+          we'll unravel the secrets of the cosmos, one data point at a time.
+        ShareButtons: ["linkedin", "twitter"]
+        imageUrl: "/img/image.png"
+        imageWidth: 180
+        imageHeight: 180
+        imageTitle: Potrait Arkadipta Sarkar
+    
+    profileMode:
+      enabled: false # needs to be explicitly set
+      title: ExampleSite
+      subtitle: "This is subtitle"
+      imageUrl: "/img/image.png"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: my image
+      buttons:
+          - name: Posts
+            url: posts
+          - name: Tags
+            url: tags
+
+
+    socialIcons:
+      - name: twitter-simple
+        url: "https://twitter.com/"
+      - name: stackoverflow
+        url: "https://stackoverflow.com/users/9504489/arkadipta-sarkar"
+      - name: github-simple
+        url: "https://github.com/Arkadipta"
+      - name: linkedin-simple
+        url: "https://www.linkedin.com/in/arkadipta-sarkar"
+      - name: cv
+        url: "/doc/CV_Long_AS.pdf"
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 1
+    - name: Notes
+      url: /notes/
+      weight: 2
+    - name: Publications
+      url: /posts/publications/
+      weight: 3
+    - name: Archives
+      url: /archives/
+      weight: 4
+
+
