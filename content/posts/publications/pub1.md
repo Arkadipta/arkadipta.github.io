@@ -1,0 +1,12 @@
+---
+title: "Long-term Variability and Correlation Study of the Blazar 3C 454.3 in the Radio, NIR, and Optical Wavebands"
+date: 2019-12-20T23:31:56+02:00
+author: ["A. Sarkar", "V.R. Chitnis", "A.C. Gupta", "H. Gaur", "S.R. Patel", "P.J. Wiita", "A.E. Volvach", "M. Tornikoski", "W. Chamani", "S. Enestam", "A. Lähteenmäki", "J. Tammi", "R.J.C Vera", "L.N. Volvach"]
+draft: false
+hiddenInHomeList: true
+---
+
+A. Sarkar, V.R. Chitnis, A.C. Gupta, H. Gaur, S.R. Patel, P.J. Wiita, A.E. Volvach, M. Tornikoski, W. Chamani, S. Enestam, A. Lähteenmäki, J. Tammi, R.J.C Vera and L.N. Volvach
+
+# Abstract:
+We performed a long-term optical (B, V, R bands), infrared (J and K bands), and radio band (15, 22, 37 GHz band) study of the flat spectrum radio quasar, 3C 454.3, using data collected over a period of more than 8 yr (MJD 54500–57500). The temporal variability, spectral properties, and interwaveband correlations were studied by dividing the available data into smaller segments with more regular sampling. This helped us constrain the size and the relative locations of the emission regions for different wavebands. Spectral analysis of the source revealed the interplay between the accretion disk and jet emission. The source predominantly showed a redder-when-brighter trend, though we observed a bluer-when-brighter trend at high flux levels, which could be a signature of particle acceleration and radiative cooling. Significant correlations with near-zero lag were seen between various optical and infrared bands, indicating that these emission regions are cospatial. Correlations with a time lag of about 10–100 days are seen between the optical/infrared and radio bands indicating these emissions arise from different regions. We also observe the DCF peak lag change from year to year. We try to explain these differences using a curved jet model where the different emission regions have different viewing angles resulting in a frequency-dependent Doppler factor. This variable Doppler factor model explains the variability timescales and the variation in DCF peak lag between the radio and optical emissions in different segments. Lags of 6–180 days are seen between emissions in various radio bands, indicating a core-shift effect.

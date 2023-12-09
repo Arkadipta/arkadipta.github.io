@@ -1,0 +1,11 @@
+---
+title: "Multiwavelength study of the quiescent states of six brightest flat-spectrum radio quasars detected by Fermi-LAT "
+date: 2021-06-01T23:31:56+02:00
+draft: false
+hiddenInHomeList: true
+---
+
+A. Roy, S.R. Patel, A. Sarkar, A. Chatterjee, V.R. Chitnis
+
+# Abstract:
+The regular monitoring of flat-spectrum radio quasars (FSRQs) in γ-rays by Fermi-LAT (Large Area Telescope) since past 12 yr indicated six sources who exhibited extreme γ-ray outbursts crossing daily flux of 10-5 photons cm-2 s-1. We obtained nearly simultaneous multiwavelength data of these sources in radio to γ-ray waveband from OVRO (Owens Valley Radio Observatory), Steward Observatory, SMARTS (Small and Moderate Aperture Research Telescope System), Swift-UVOT (UV/Optical Telescope), Swift-XRT (X-ray Telescope), and Fermi-LAT. The time-averaged broad-band spectral energy distributions (SEDs) of these sources in quiescent states were studied to get an idea about the underlying baseline radiation processes. We modelled the SEDs using one-zone leptonic synchrotron and inverse Compton emission scenario from broken power-law electron energy distribution inside a spherical plasma blob, relativistically moving down a conical jet. The model takes into account inverse Compton scattering of externally and locally originated seed photons in the jet. The big blue bumps visible in quiescent state SEDs helped to estimate the accretion disc luminosities and central black hole masses. We found a correlation between the magnetic field inside the emission region and the ratio of emission region distance to disc luminosity, which implies that the magnetic field decreases with an increase in emission region distance and decrease in disc luminosity, suggesting a disc-jet connection. The high-energy index of the electron distribution was also found to be correlated with observed γ-ray luminosity as γ-rays are produced by high-energy particles. In most cases, kinetic power carried by electrons can account for jet radiation power as jets become radiatively inefficient during quiescent states. 

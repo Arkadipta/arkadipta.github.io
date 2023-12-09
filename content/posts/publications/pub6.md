@@ -1,0 +1,11 @@
+---
+title: "SiPM Based Imaging Camera for 4m Class Telescope"
+date: 2022-03-18T23:31:56+02:00
+draft: false
+hiddenInHomeList: true
+---
+
+V. Chitnis, S.S. Upadhya, K. Gothe, S. Duhan, S.K. Rao, B.B. Singh, M. Ranjan, N.K. Parmar, A. Chatterjee, R.L. Deshmukh, P. Dorjey, N. Dorji, A.P.K. Kutty, B.K. Nagesh, V.A. Nikam, S.R. Patel, A. Roy, M.N. Saraf, A. Sarkar, P. Verma, K.K. Yadav, N. Chouhan, V.K. Dhar, P. Chandra and K. Venugopal
+
+# Abstract:
+In last few years, SiPMs have emerged as a viable alternative to PMTs used in the imaging atmospheric Cherenkov telescopes. In addition to their higher photon detection efficiency, SiPMs provide attractive features like possible increase in observation duty cycle owing to their safe operation under partial moonlight conditions. Design and development of 256 pixel SiPM based camera for a 4m class Cherenkov telescope is currently at an advanced stage. This camera is proposed to cover a field of view of 5 deg X 5 deg, with a pixel size of 0.3 deg. The camera being developed, is planned to be mounted in the focal plane of one of the vertex elements of TACTIC telescope system which is currently operational at Mt Abu, in the north-western part of India. The associated camera electronics will also be mounted in focal plane of telescope behind the SiPM pixels. The camera will have modular structure, with each module consisting of 16 pixel sensors and the associated front end electronics. The signal generated from the pixels on registration of a Cherenkov event will be passed to "back-end" electronics for trigger generation, digitization @1GSPS and the subsequent data recording. A 16-pixel prototype module has already been developed and tested in our laboratory. A "mini- camera" consisting of 64 pixels has also been assembled and is currently at advanced stage of testing. After completion of the successful testing of the "mini-camera", field tests at the telescope site will be conducted. Salient features of the SiPM based camera, results from the tests conducted by us and status report will be presented. 
