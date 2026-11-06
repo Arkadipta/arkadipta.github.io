@@ -1,7 +1,7 @@
 ---
 title: "🔭 Telescope  Development"
 date: 2023-09-04T23:19:55+02:00
-draft: false
+draft: true
 weight: 2
 hiddenInHomeList: true
 hideSummary: true
