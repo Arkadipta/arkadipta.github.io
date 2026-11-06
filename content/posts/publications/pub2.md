@@ -7,5 +7,7 @@ hiddenInHomeList: true
 
 P. Kushwaha, A. Sarkar, A.C. Gupta, A. Tripathi, P.J. Wiita
 
+**[Read the paper ↗](https://doi.org/10.1093/mnras/staa2899)**
+
 # Abstract:
 We report the detection of a probable γ-ray quasi-periodic oscillation (QPO) of around 314 d in the monthly binned 0.1–300 GeV γ-ray Fermi-Large Area Telescope light curve of the well-known BL Lacertae blazar OJ 287. To identify and quantify the QPO nature of the γ-ray light curve of OJ 287, we used the Lomb–Scargle periodogram (LSP), REDFIT, and weighted wavelet Z-transform (WWZ) analyses. We briefly discuss possible emission models for radio-loud active galactic nuclei that can explain a γ-ray QPO of such a period in a blazar.

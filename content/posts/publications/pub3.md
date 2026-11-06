@@ -7,6 +7,8 @@ hiddenInHomeList: true
 
 A. Sarkar, P. Kushwaha, A.C. Gupta, V.R. Chitnis, P.J. Wiita
 
+**[Read the paper ↗](https://doi.org/10.1051/0004-6361/202038052)**
+
 # Abstract:
 **Context.** Quasi-periodic fluctuations in the light curves of blazars can provide insight into the underlying emission process. This type of flux modulation hints at periodic physical processes that result in emission. CTA 102, a flat spectrum radio quasar at a redshift of 1.032, has displayed significant activity since 2016. The multi-waveband light curve of CTA 102 shows signs of quasi-periodic oscillations during the 2016–2017 flare.
 

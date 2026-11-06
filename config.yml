@@ -6,6 +6,7 @@ params:
     # TocSide: 'left'
     # EnableInstantClick: true
     defaultTheme: auto
+    favicon: "/favicon.png"
     ShowBreadCrumbs: true
     ShowShareButtons: true
     DateFormat: "2006"
@@ -47,8 +48,6 @@ params:
 
 
     socialIcons:
-      - name: twitter-simple
-        url: "https://twitter.com/"
       - name: stackoverflow
         url: "https://stackoverflow.com/users/9504489/arkadipta-sarkar"
       - name: github-simple
@@ -63,9 +62,6 @@ menu:
     - name: Posts
       url: /posts/
       weight: 1
-    - name: Notes
-      url: /notes/
-      weight: 2
     - name: Publications
       url: /posts/publications/
       weight: 3
