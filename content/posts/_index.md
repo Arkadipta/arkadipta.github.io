@@ -2,7 +2,7 @@
 title: ""
 draft: false
 hiddenInHomeList: true
-_build:
+build:
   render: always
   list: always
   publishResources: true

@@ -5,7 +5,7 @@ draft: false
 weight: 1
 hideSummary: true
 hidemeta: true
-_build:
+build:
   render: always
   list: always
   publishResources: true

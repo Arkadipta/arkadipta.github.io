@@ -14,25 +14,17 @@ params:
         Title: 👋🏼 Hi there,
         subtitle: "**welcome to my homepage...**"
         Content: |
-          I am an **astrophysicist** specializing in the study of Very High 
-          Energy (VHE) emissions from Supermassive Black Holes (SMBHs). I try to
-          explain black hole physics phenomenologically through causal inference,
-          time-series analysis, machine learning, stochastic calculus, and a 
-          myriad of other data science techniques using the data collected from 
-          numerous telescopes worldwide. I have also contributed to the software 
-          development of three different telescopes worldwide. My passion lies 
-          in working with large datasets and using statistics to make sense of 
-          them.
+          I am a quantitative researcher focused on alpha signal development for systematic trading strategies. 
+          My background is in astrophysics, with a PhD from the Tata Institute of Fundamental Research (TIFR), Mumbai. 
+          Prior to my current role, I worked as a postdoctoral scientist at DESY, contributing to software development 
+          and simulation frameworks for the Cherenkov Telescope Array.
 
-          I completed my PhD at the Tata Institute of Fundamental Research 
-          (TIFR), Mumbai and currently, I am working as a Postdoctoral Scientist 
-          at Deutsches Elektronen Synchrotron (DESY), developing the array 
-          control software and performing Monte-Carlo simulations for Cherenkov 
-          Telescope Array (CTA). I also work on some interesting deep-learning 
-          projects on the side. 
-          
-          Let's explore the cosmos using data and statistics...
-        
+          In my earlier research, I specialized in the study of high-energy emissions from supermassive black holes, 
+          applying methods from time-series analysis, causal inference, and statistical learning. I’ve also contributed 
+          to the control software of multiple international observatories.
+
+          My core interests lie in statistical modeling, time-series forecasting, and working with large, complex datasets.
+
         ShareButtons: ["linkedin", "twitter"]
         imageUrl: "/img/image.png"
         imageWidth: 180

@@ -6,7 +6,7 @@ weight: 2
 hiddenInHomeList: true
 hideSummary: true
 hidemeta: true
-_build:
+build:
   render: always
   list: always
   publishResources: true
