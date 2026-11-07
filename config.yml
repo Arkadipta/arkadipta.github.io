@@ -1,8 +1,13 @@
 baseURL: https://arkadipta.github.io/
 languageCode: en-us
-title: Arkadipta
+title: Arkadipta Sarkar
 theme: PaperModX
 params:
+    title: Arkadipta Sarkar
+    description: "Arkadipta Sarkar: quantitative researcher building alpha signals for systematic trading. PhD in astrophysics (TIFR), former postdoc at DESY."
+    author: Arkadipta Sarkar
+    keywords: [Arkadipta Sarkar, quantitative research, systematic trading, time-series analysis, statistical learning, astrophysics, blazars, Cherenkov Telescope Array]
+    images: ["/img/profile.jpg"]
     # TocSide: 'left'
     # EnableInstantClick: true
     defaultTheme: auto
@@ -27,16 +32,16 @@ params:
           My core interests lie in statistical modeling, time-series forecasting, and working with large, complex datasets.
 
         ShareButtons: ["linkedin", "twitter"]
-        imageUrl: "/img/image.png"
+        imageUrl: "/img/profile.jpg"
         imageWidth: 180
         imageHeight: 180
-        imageTitle: Potrait Arkadipta Sarkar
+        imageTitle: Portrait of Arkadipta Sarkar
     
     profileMode:
       enabled: false # needs to be explicitly set
       title: ExampleSite
       subtitle: "This is subtitle"
-      imageUrl: "/img/image.png"
+      imageUrl: "/img/profile.jpg"
       imageWidth: 120
       imageHeight: 120
       imageTitle: my image
