@@ -1,0 +1,7 @@
+/* Hyphenate justified text (landing-page bio and post-list summaries) so word spacing stays even */
+.entry-content {
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    hyphenate-limit-chars: 7 3 3;
+    text-wrap: pretty;
+}
